@@ -267,7 +267,7 @@ def predict():
             d_Hyderabad = 0
             d_Kolkata = 0
 		
-		if (Source == 'Banglore'):
+	elif (Source == 'Banglore'):
             d_Cochin = 1
             d_Delhi = 0
             d_New_Delhi = 0
